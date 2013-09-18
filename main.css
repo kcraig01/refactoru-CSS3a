@@ -141,16 +141,10 @@ tr:last-child td{
 .inline-media {
 	float:left;
 	margin-right: 10px;
-	overflow:hidden;
-	/*width:50px;
-	margin-right: 10px;*/
 }
 
-
-.cupcake{
-	float:left;
-	width: 700px;
+.cupcake {
+	display:block;
 	overflow:hidden;
-	
 }
 
